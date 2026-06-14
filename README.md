@@ -1,2 +1,1 @@
-# CS-250
-Week 5 Assignment SlideShow.jar
+CS-250 Java Assignments over the 8 week term. 
